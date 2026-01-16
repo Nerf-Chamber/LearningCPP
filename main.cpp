@@ -2,12 +2,11 @@
 #include "helloWorld.h"
 #include "littleProblem.h"
 #include "secondsToHMS.h"
+#include "condicionals.h"
 
 using namespace std;
 
 int main() {
-    int initialSeconds;
-    cin >> initialSeconds;
-    transformSecondsToHMS(initialSeconds);
+    writeMinMax();
     return 0;
 }
