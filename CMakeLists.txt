@@ -12,6 +12,8 @@ add_executable(C__ main.cpp
         Basics/Declarations/secondsToHMS.h
         Basics/Exercises/condicionals.cpp
         Basics/Declarations/condicionals.h
+        Basics/Exercises/condicionalsV2.cpp
+        Basics/Declarations/condicionalsV2.h
 )
 
 target_include_directories(C__ PRIVATE
