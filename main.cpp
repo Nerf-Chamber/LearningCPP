@@ -1,13 +1,13 @@
 #include <iostream>
 #include "helloWorld.h"
 #include "littleProblem.h"
+#include "secondsToHMS.h"
 
 using namespace std;
 
 int main() {
-    cout << "PRODUCT" << endl;
-    product();
-    cout << "ADDITION" << endl;
-    addition();
+    int initialSeconds;
+    cin >> initialSeconds;
+    transformSecondsToHMS(initialSeconds);
     return 0;
 }
