@@ -14,6 +14,8 @@ add_executable(C__ main.cpp
         Basics/Declarations/condicionals.h
         Basics/Exercises/condicionalsV2.cpp
         Basics/Declarations/condicionalsV2.h
+        Basics/Exercises/while.cpp
+        Basics/Declarations/while.h
 )
 
 target_include_directories(C__ PRIVATE
