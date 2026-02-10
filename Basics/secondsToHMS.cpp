@@ -1,5 +1,5 @@
+#include "basicsHeader.h"
 #include <iostream>
-#include "secondsToHMS.h"
 
 using namespace std;
 

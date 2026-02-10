@@ -4,20 +4,16 @@ project(C__)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(C__ main.cpp
-        Basics/Exercises/helloWorld.cpp
-        Basics/Declarations/helloWorld.h
-        Basics/Exercises/littleProblem.cpp
-        Basics/Declarations/littleProblem.h
-        Basics/Exercises/secondsToHMS.cpp
-        Basics/Declarations/secondsToHMS.h
-        Basics/Exercises/condicionals.cpp
-        Basics/Declarations/condicionals.h
-        Basics/Exercises/condicionalsV2.cpp
-        Basics/Declarations/condicionalsV2.h
-        Basics/Exercises/while.cpp
-        Basics/Declarations/while.h
+        Declarations/basicsHeader.h
+
+        Basics/helloWorld.cpp
+        Basics/littleProblem.cpp
+        Basics/secondsToHMS.cpp
+        Basics/condicionals.cpp
+        Basics/condicionalsV2.cpp
+        Basics/while.cpp
 )
 
 target_include_directories(C__ PRIVATE
-    Basics/Declarations
+        Declarations
 )
