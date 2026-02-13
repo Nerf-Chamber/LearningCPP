@@ -4,6 +4,6 @@
 using namespace std;
 
 int main() {
-    helloWorld();
+    mcdA();
     return 0;
 }

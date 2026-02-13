@@ -2,6 +2,6 @@
 #define BASICSHEADER_H
 
 // Functions to compile
-void helloWorld();
+void mcdA();
 
 #endif
