@@ -4,6 +4,6 @@
 using namespace std;
 
 int main() {
-    forAddition();
+    triangle();
     return 0;
 }

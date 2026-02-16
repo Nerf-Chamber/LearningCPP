@@ -14,6 +14,7 @@ add_executable(C__ main.cpp
         Basics/while.cpp
         Basics/MCD.cpp
         Basics/for.cpp
+        Basics/Triangle_P29973.cpp
 )
 
 target_include_directories(C__ PRIVATE
