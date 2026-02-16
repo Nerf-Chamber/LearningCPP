@@ -2,6 +2,8 @@
 #define BASICSHEADER_H
 
 // Functions to compile
-void mcdA();
+void forExample();
+void forSquared();
+void forAddition();
 
 #endif

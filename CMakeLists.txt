@@ -13,6 +13,7 @@ add_executable(C__ main.cpp
         Basics/condicionalsV2.cpp
         Basics/while.cpp
         Basics/MCD.cpp
+        Basics/for.cpp
 )
 
 target_include_directories(C__ PRIVATE
