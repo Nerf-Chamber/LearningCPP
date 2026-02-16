@@ -4,6 +4,6 @@
 using namespace std;
 
 int main() {
-    triangle();
+    rhombus();
     return 0;
 }
