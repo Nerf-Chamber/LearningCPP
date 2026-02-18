@@ -4,6 +4,6 @@
 using namespace std;
 
 int main() {
-    rhombus();
+    sequence();
     return 0;
 }
