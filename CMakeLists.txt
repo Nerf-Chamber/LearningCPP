@@ -18,6 +18,8 @@ add_executable(C__ main.cpp
         Basics/Rhombus_P72484.cpp
         Basics/sequence.cpp
         Basics/domino.cpp
+        Declarations/dataTypesHeader.h
+        DataTypes/Reals.cpp
 )
 
 target_include_directories(C__ PRIVATE

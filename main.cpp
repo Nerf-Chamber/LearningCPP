@@ -1,9 +1,9 @@
 #include <iostream>
-#include "basicsHeader.h"
+#include <dataTypesHeader.h>
 
 using namespace std;
 
 int main() {
-    domino();
+    celciusToFahrenheit();
     return 0;
 }
