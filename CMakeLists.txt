@@ -17,6 +17,7 @@ add_executable(C__ main.cpp
         Basics/Triangle_P29973.cpp
         Basics/Rhombus_P72484.cpp
         Basics/sequence.cpp
+        Basics/domino.cpp
 )
 
 target_include_directories(C__ PRIVATE

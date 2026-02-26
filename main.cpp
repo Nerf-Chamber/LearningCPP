@@ -4,6 +4,6 @@
 using namespace std;
 
 int main() {
-    sequence();
+    domino();
     return 0;
 }
