@@ -23,6 +23,7 @@ add_executable(C__ main.cpp
         DataTypes/averageReals.cpp
         DataTypes/castlesAndCatapults.cpp
         DataTypes/chars.cpp
+        DataTypes/CharClassification_P42042.cpp
 )
 
 target_include_directories(C__ PRIVATE

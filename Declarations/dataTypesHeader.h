@@ -2,6 +2,6 @@
 #define DATATYPESHEADER_H
 
 // Functions to compile
-void operations();
+void charClassification();
 
 #endif
