@@ -24,6 +24,7 @@ add_executable(C__ main.cpp
         DataTypes/castlesAndCatapults.cpp
         DataTypes/chars.cpp
         DataTypes/CharClassification_P42042.cpp
+        DataTypes/HexReversed_P60816.cpp
 )
 
 target_include_directories(C__ PRIVATE
