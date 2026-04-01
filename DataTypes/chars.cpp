@@ -3,6 +3,8 @@
 
 using namespace std;
 
+// ANOTACIÓ: Llibreria estàndar de C++ sobre chars: cctype
+
 void operations() {
     char c = 'X';
 
