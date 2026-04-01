@@ -21,6 +21,7 @@ add_executable(C__ main.cpp
         Declarations/dataTypesHeader.h
         DataTypes/reals.cpp
         DataTypes/averageReals.cpp
+        DataTypes/castlesAndCatapults.cpp
 )
 
 target_include_directories(C__ PRIVATE

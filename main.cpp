@@ -4,6 +4,7 @@
 using namespace std;
 
 int main() {
-    averageReals();
+    // Example
+    castlesAndCatapults(15.0, 7.3, true, 15);
     return 0;
 }
