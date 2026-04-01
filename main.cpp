@@ -4,7 +4,6 @@
 using namespace std;
 
 int main() {
-    // Example
-    castlesAndCatapults(15.0, 7.3, true, 15);
+    operations();
     return 0;
 }
