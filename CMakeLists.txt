@@ -19,8 +19,7 @@ add_executable(C__ main.cpp
         Basics/sequence.cpp
         Basics/domino.cpp
         Declarations/dataTypesHeader.h
-        DataTypes/Reals.cpp
-        DataTypes/averageReals.cpp
+        DataTypes/reals.cpp
         DataTypes/averageReals.cpp
 )
 
