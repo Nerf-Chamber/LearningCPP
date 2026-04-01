@@ -4,6 +4,6 @@
 using namespace std;
 
 int main() {
-    celciusToFahrenheit();
+    averageReals();
     return 0;
 }

@@ -2,7 +2,6 @@
 #define DATATYPESHEADER_H
 
 // Functions to compile
-void eqFirstGrade();
-void celciusToFahrenheit();
+void averageReals();
 
 #endif

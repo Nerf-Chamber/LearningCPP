@@ -20,6 +20,8 @@ add_executable(C__ main.cpp
         Basics/domino.cpp
         Declarations/dataTypesHeader.h
         DataTypes/Reals.cpp
+        DataTypes/averageReals.cpp
+        DataTypes/averageReals.cpp
 )
 
 target_include_directories(C__ PRIVATE
