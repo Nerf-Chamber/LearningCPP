@@ -4,6 +4,6 @@
 using namespace std;
 
 int main() {
-    hexReversed();
+    wordLength();
     return 0;
 }

@@ -2,6 +2,6 @@
 #define DATATYPESHEADER_H
 
 // Functions to compile
-void hexReversed();
+void wordLength();
 
 #endif
